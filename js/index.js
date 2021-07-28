@@ -16,7 +16,7 @@ $(function() {
 		methods: {
 			init() {
 				var _this = this;
-				var url = 'version.json'
+				var url = 'version.json';
 				axios.get(url).then(res => {
 					console.log(res)
 					console.log(res.data)

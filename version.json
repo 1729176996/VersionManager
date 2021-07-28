@@ -2,11 +2,8 @@
 	"list":[
 		{
 			"version":"1.0.0",
-			"name":"项目名称"
-		},
-		{
-			"version":"1.0.0",
-			"name":"项目名称"
+			"name":"TreasureChest",
+			"wgtUrl":"https://1729176996.github.io/VersionManager/TreasureChest.wgt"
 		}
 	]
 }
