@@ -9,6 +9,9 @@ $(function() {
 		},
 		mounted() {
 			this.init();
+			init(function(){
+				
+			});
 		},
 		created() {
 
